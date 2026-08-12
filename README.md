@@ -1,5 +1,10 @@
 # Star Trek Fleet Command - Community Mod
 
+2608 V5
+- 게임 오류로 행성계 경로창이 뜨지않는 상황 강제 리셋
+- 텔레그램으로 게임 리셋시 community_patch_settings.toml 불러오기 오류 해결
+- 독 상태가 None 및 경로찾기 진행이 어려운 경우 지속시 게임 강제 리셋 적용.
+- 
 2608 V4
 - 업데이트 계속 알림 수정
 - 업데이트 암호방식 도입
