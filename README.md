@@ -1,4 +1,7 @@
 # Star Trek Fleet Command - Community Mod
+2609 V1.3
+- 수리이미지 오류 수정 - 한방님
+
 2609 V1.2
 - 노는중과 수리시작 구분 오류 수정- 피스아이님
 
