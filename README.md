@@ -1,4 +1,8 @@
 # Star Trek Fleet Command - Community Mod
+2610 V1.6
+- 1번,2번함 채굴상태 인식 수정
+- 수리대기 검사 보강
+  
 2610 V1.5
 - 자동 종료 조건 소스코드 수정
 
