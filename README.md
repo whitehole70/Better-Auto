@@ -1,4 +1,7 @@
 # Star Trek Fleet Command - Community Mod
+2610 V2.0
+- 이벤트 브이저전투기 사냥 모드 추가
+
 2610 V1.8
 - 초과사냥 체크시 만땅귀환 오류 수정
 - version.dll 게임 시작화면 변경
